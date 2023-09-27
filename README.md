@@ -1,5 +1,7 @@
 # jornal
 
+Link do jornal: https://lelisboa07.github.io/jornal/
+
 Documentação de Requisitos - Jornal
 Introdução
 Esta documentação tem como objetivo alcançar os pedidos para o jornal que está sendo 
